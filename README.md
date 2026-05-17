@@ -1,1 +1,1 @@
-# shorts_automation
+# shorts automation
